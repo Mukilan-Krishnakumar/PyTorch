@@ -1,0 +1,9 @@
+# Ignore .ipynb_checkpoints
+.ipynb_checkpoints/
+
+# Ignore data folder and subfolders
+!data/
+data/*
+
+# Ignore MAC system file
+.DS_Store
